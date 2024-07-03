@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "Hello! I'm Mitali Dharmijwar, a budding web developer eager to make my mark in the digital world.I recently graduated with a bachelor degree in Engineering (Computer Technology) from KITS Ramtek,RTMNU."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML",
+  "CSS",
+  "JAVASCRIPT",
+  "REACT JS",
+  "BOOTSTRAP",
+  "JAVA",
+  "ORACLE(SQL,PL-SQL)",
+  "USER FRIENDLY WEBSITES"
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm passionate about creating user-friendly and visually appealing websites that make a positive impact. As I embark on my career journey, I'm eager to immerse myself in real-world projects, learn from experienced professionals, and contribute innovative ideas to the field of web development.";
 
 const About = () => {
   return (
