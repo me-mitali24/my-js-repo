@@ -27589,19 +27589,18 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                     }, undefined),
                     gitHub && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                         href: `https://github.com/me-mitali24/my-js-repo/`,
-                        children: [
-                            'target="_blank" rel="noopener noreferrer">',
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                src: (0, _githubSvgDefault.default),
-                                alt: "GitHub",
-                                className: "socialIcon"
-                            }, void 0, false, {
-                                fileName: "src/Components/Footer.jsx",
-                                lineNumber: 76,
-                                columnNumber: 13
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                            src: (0, _githubSvgDefault.default),
+                            alt: "GitHub",
+                            className: "socialIcon"
+                        }, void 0, false, {
+                            fileName: "src/Components/Footer.jsx",
+                            lineNumber: 77,
+                            columnNumber: 13
+                        }, undefined)
+                    }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
                         lineNumber: 74,
                         columnNumber: 11
@@ -27616,12 +27615,12 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 85,
+                            lineNumber: 86,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 80,
+                        lineNumber: 81,
                         columnNumber: 11
                     }, undefined),
                     linkedIn && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27634,12 +27633,12 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 94,
+                            lineNumber: 95,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 89,
+                        lineNumber: 90,
                         columnNumber: 11
                     }, undefined),
                     medium && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27652,12 +27651,12 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 99,
+                            lineNumber: 100,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 98,
+                        lineNumber: 99,
                         columnNumber: 11
                     }, undefined),
                     twitter && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27670,12 +27669,12 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 104,
+                            lineNumber: 105,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 103,
+                        lineNumber: 104,
                         columnNumber: 11
                     }, undefined),
                     youTube && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27688,12 +27687,12 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 113,
+                            lineNumber: 114,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 108,
+                        lineNumber: 109,
                         columnNumber: 11
                     }, undefined)
                 ]
@@ -27714,7 +27713,7 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Footer.jsx",
-                lineNumber: 117,
+                lineNumber: 118,
                 columnNumber: 7
             }, undefined)
         ]
